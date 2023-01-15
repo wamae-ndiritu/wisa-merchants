@@ -75,7 +75,7 @@ const Footer = () => {
               </div>
               <div className="f_social">
                 <a
-                  href="https://wa.me/254740924507"
+                  href="https://wa.me/254722212696"
                   target="_blank"
                   rel="noreferrer"
                 >
