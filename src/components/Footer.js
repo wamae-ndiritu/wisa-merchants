@@ -66,7 +66,7 @@ const Footer = () => {
             <div className="f_socials">
               <div className="f_social">
                 <a
-                  href="https://www.facebook.com/wamaendiritu"
+                  href="https://www.facebook.com/profile.php?id=100089216000316"
                   target="_blank"
                   rel="noreferrer"
                 >
